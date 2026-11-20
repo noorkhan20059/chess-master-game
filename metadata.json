@@ -1,0 +1,6 @@
+{
+  "name": "AI Chess Master",
+  "description": "Luxury AI chess platform powered by Stockfish 19 and Gemini coaching with interactive gameplay, real-time move hints, post-game engine analysis, curated tactical puzzles, and an interactive openings library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
